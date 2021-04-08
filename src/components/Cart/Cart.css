@@ -1,0 +1,13 @@
+.books-board{
+    margin-bottom: 10px;
+   border-radius: 12px;
+   height: 330px;
+   border: none;
+   background-color:blue;
+}
+.books-img{
+    height: 170px;
+}
+.books-img img{
+    height: 100%;
+}

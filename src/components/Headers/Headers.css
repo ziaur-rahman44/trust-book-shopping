@@ -1,0 +1,11 @@
+.header-area{
+    background-color: rgba(10, 107, 124, 0.993);
+}
+nav {
+    padding:20px 0px;
+}
+nav p{
+    display: inline;
+    padding-right:10px;
+    color:white;
+}
